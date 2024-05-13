@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Flakes - Tag - Hugo.toml</title>
+        <link>http://localhost:1313/tags/flakes/</link>
+        <description>Flakes - Tag - Hugo.toml</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 09 May 2024 14:19:16 -0700</lastBuildDate><atom:link href="http://localhost:1313/tags/flakes/" rel="self" type="application/rss+xml" /><item>
+    <title>Pc Build</title>
+    <link>http://localhost:1313/posts/pc/</link>
+    <pubDate>Thu, 09 May 2024 14:19:16 -0700</pubDate><author>
+        <name>rj</name>
+    </author><guid>http://localhost:1313/posts/pc/</guid>
+    <description><![CDATA[Build
+It&rsquo;s February 2024, exactly 10 months since I started using NixOS. The beginner notes I wrote initially have received a lot of positive feedback and some sponsorships, becoming one of the most popular entry-level tutorials in the entire community. Since I created a dedicated GitHub repository and a separate documentation site for it in June 2023, it has garnered 1189 stars, and besides me, 37 other readers have submitted PRs:]]></description>
+</item></channel>
+</rss>

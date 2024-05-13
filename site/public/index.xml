@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hugo.toml</title>
+        <link>http://localhost:1313/</link>
+        <description>Hugo.toml</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 12 May 2024 22:02:09 -0700</lastBuildDate>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Pc Build</title>
+    <link>http://localhost:1313/posts/2024/</link>
+    <pubDate>Sun, 12 May 2024 22:02:09 -0700</pubDate><author>
+        <name>rj</name>
+    </author><guid>http://localhost:1313/posts/2024/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/2024/1.jpg" referrerpolicy="no-referrer">
+            </div>This is my pc build!]]></description>
+</item></channel>
+</rss>
