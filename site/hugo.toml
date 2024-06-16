@@ -82,13 +82,13 @@ theme = "DoIt"
       # URL of avatar shown in home page
       # Place your avatar file under static or assets directory
       # The filepath is relative to the static or assets directory
-      avatarURL = "/a.jpg"
+      avatarURL = "/add smile pfp or??"
       # URL the avatar links to
       avatarLinkURL = ""
       # DoIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
-      title = "My for fun blog to look back on when I'm older."
+      title = ""
       # subtitle shown in home page
-      subtitle = ""
+      subtitle = "No one will read this idk"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links

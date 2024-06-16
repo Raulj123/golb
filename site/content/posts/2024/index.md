@@ -29,3 +29,4 @@ toc:
 ---
 ![pc](1.jpg)
 > This is my pc build!
+WIP whenever I feel like writing
